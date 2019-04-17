@@ -5,7 +5,7 @@
 
 3. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
-#### 2019年4月17日新增 美国-洛杉矶 节点
+#### 2019年4月17日新增 美国-洛杉矶 和 俄罗斯1 节点
 
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard3.github.io) 里就有免费的手把手教程。<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年4月的最新活动，针对新用户，直接送50美元！
@@ -29,7 +29,7 @@ Twitter: https://twitter.com/darrenliuwei
 
 >我看网上有些免费的资源会做一些限制，比如回复可见、转发可见、一天一更新、关注公众号回复才可见、限制速度、限制连接数等等，而我都没有做任何限制，并且尽量少更新，而且一般只更新端口号，尽量半个月甚至一个月才更新，我就是希望能尽可能的方便粉丝，真诚的分享，真诚的帮助。
 
->如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是9台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
+>如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是10台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
 
 ![free-ssr-日本-东京1](https://www.png8.com/2019/04/13/5cb14ab2b4c92.png)
 ![free-ss-日本-东京1](https://www.png8.com/2019/04/13/5cb14b8fbc627.png)
@@ -57,6 +57,9 @@ Twitter: https://twitter.com/darrenliuwei
 <hr>
 ![free-ssr-新加坡3](https://www.png8.com/2019/04/04/5ca61c178e091.png)
 ![free-ss-新加坡3](https://www.png8.com/2019/04/04/5ca61d85801ce.png)
+<hr>
+![free-ssr-俄罗斯1](https://www.png8.com/2019/04/17/5cb71f5aa1953.png)
+![free-ss-俄罗斯1](https://www.png8.com/2019/04/17/5cb72083ef309.png)
 
 #### 2019年4月15日：更新端口
 <img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4050.PNG" width="100%" height="100%">
