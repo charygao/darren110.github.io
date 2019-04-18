@@ -59,7 +59,6 @@ Twitter: https://twitter.com/darrenliuwei
 ![free-ss-新加坡3](https://www.png8.com/2019/04/04/5ca61d85801ce.png)
 <hr>
 ![free-ssr-俄罗斯1](https://www.png8.com/2019/04/17/5cb71f5aa1953.png)
-![free-ss-俄罗斯1](https://www.png8.com/2019/04/17/5cb72083ef309.png)
 
 #### 2019年4月15日：更新端口
 <img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4050.PNG" width="100%" height="100%">
