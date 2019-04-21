@@ -5,7 +5,9 @@
 
 3. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
-#### 2019年4月19日修改 日本1 和 日本2 端口号
+#### 2019年4月21日修改 新加坡2 端口号
+
+感谢所有捐赠打赏的可爱的人：https://sphard.com/thanks
 
 建议每个人都学习一下自己搭建翻墙软件，学一门技能有备无患。而且 [电子书《科学上网翻墙教程》](https://sphard3.github.io) 里就有免费的手把手教程。<br>
 [Vultr](https://www.vultr.com/?ref=7775614-4F)在2019年4月的最新活动，针对新用户，直接送50美元！
@@ -52,8 +54,8 @@ Twitter: https://twitter.com/darrenliuwei
 ![free-ssr-美国-洛杉矶](https://www.png8.com/2019/04/16/5cb5fa0ebe9ea.png)
 ![free-ss-美国-洛杉矶](https://www.png8.com/2019/04/16/5cb5fa958f7d9.png)
 <hr>
-![free-ssr-新加坡2](https://www.png8.com/2019/04/05/5ca6cd9908396.png)
-![free-ss-新加坡2](https://www.png8.com/2019/04/05/5ca6ce4abff13.png)
+![free-ssr-新加坡2](https://www.png8.com/2019/04/21/5cbc207864cee.png)
+![free-ss-新加坡2](https://www.png8.com/2019/04/21/5cbc2113c6863.png)
 <hr>
 ![free-ssr-新加坡3](https://www.png8.com/2019/04/04/5ca61c178e091.png)
 ![free-ss-新加坡3](https://www.png8.com/2019/04/04/5ca61d85801ce.png)
