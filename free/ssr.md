@@ -5,7 +5,7 @@
 
 3. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
-#### 2019年4月21日修改 新加坡2 端口号
+#### 2019年4月24日修改 英国和日本1 端口号
 
 感谢所有捐赠打赏的可爱的人：https://sphard.com/thanks
 
@@ -33,8 +33,8 @@ Twitter: https://twitter.com/darrenliuwei
 
 >如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是10台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
 
-![free-ssr-日本-东京1](https://www.png8.com/2019/04/19/5cb9b10d9fd9e.png)
-![free-ss-日本-东京1](https://www.png8.com/2019/04/19/5cb9b1780d15b.png)
+![free-ssr-日本-东京1](https://s2.ax1x.com/2019/04/24/EZEbQK.png)
+![free-ss-日本-东京1](https://s2.ax1x.com/2019/04/24/EZVeFs.png)
 <hr>
 ![free-ssr-日本-东京2](https://www.png8.com/2019/04/19/5cb9b39401bfa.png)
 ![free-ss-日本-东京2](https://www.png8.com/2019/04/19/5cb9b7d36ba35.png)
@@ -42,8 +42,8 @@ Twitter: https://twitter.com/darrenliuwei
 ![free-ssr-澳大利亚](https://www.png8.com/2019/04/11/5caf21864a8bf.png)
 ![free-ss-澳大利亚](https://www.png8.com/2019/04/11/5caf220edfff2.png)
 <hr>
-![free-ssr-英国-伦敦](https://www.png8.com/2019/04/04/5ca5756b7d12b.png)
-![free-ss-英国-伦敦](https://www.png8.com/2019/04/04/5ca57642abcc2.png)
+![free-ssr-英国-伦敦](https://s2.ax1x.com/2019/04/24/EZV7kj.png)
+![free-ss-英国-伦敦](https://s2.ax1x.com/2019/04/24/EZZtHg.png)
 <hr>
 ![free-ssr-荷兰-阿姆斯特丹](https://www.png8.com/2019/04/05/5ca723e21223b.png)
 ![free-ss-荷兰-阿姆斯特丹](https://www.png8.com/2019/04/05/5ca72456a1789.png)
@@ -62,8 +62,8 @@ Twitter: https://twitter.com/darrenliuwei
 <hr>
 ![free-ssr-俄罗斯1](https://www.png8.com/2019/04/17/5cb71f5aa1953.png)
 
-#### 2019年4月19日：更新端口
-<img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4052.png" width="100%" height="100%">
+#### 2019年4月23日：恢复原ip、更换端口
+<img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4064.PNG" width="100%" height="100%">
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/aT1dO5oekso" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/uB9jkLncfbw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
