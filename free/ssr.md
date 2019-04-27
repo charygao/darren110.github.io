@@ -33,17 +33,17 @@ Twitter: https://twitter.com/darrenliuwei
 
 >如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是10台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
 
-![free-ssr-日本-东京1](https://s2.ax1x.com/2019/04/24/EZEbQK.png)
-![free-ss-日本-东京1](https://s2.ax1x.com/2019/04/24/EZVeFs.png)
+![free-ssr-日本-东京1](https://upload.cc/i1/2019/04/27/VAiFh9.png)
+![free-ss-日本-东京1](https://upload.cc/i1/2019/04/27/Jx0hk8.png)
 <hr>
-![free-ssr-日本-东京2](https://s2.ax1x.com/2019/04/27/EuBFYD.png)
-![free-ss-日本-东京2](https://s2.ax1x.com/2019/04/27/EuBVld.png)
+![free-ssr-日本-东京2](https://upload.cc/i1/2019/04/27/DXSTPn.png)
+![free-ss-日本-东京2](https://upload.cc/i1/2019/04/27/Dirbfe.png)
 <hr>
-![free-ssr-澳大利亚](https://s2.ax1x.com/2019/04/27/Eu0wzd.png)
-![free-ss-澳大利亚](https://s2.ax1x.com/2019/04/27/Eu02FS.png)
+![free-ssr-澳大利亚](https://upload.cc/i1/2019/04/27/Lj8TDJ.png)
+![free-ss-澳大利亚](https://upload.cc/i1/2019/04/27/XYGdak.png)
 <hr>
-![free-ssr-英国-伦敦](https://s2.ax1x.com/2019/04/24/EZV7kj.png)
-![free-ss-英国-伦敦](https://s2.ax1x.com/2019/04/24/EZZtHg.png)
+![free-ssr-英国-伦敦](https://upload.cc/i1/2019/04/27/iqcd7Q.png)
+![free-ss-英国-伦敦](https://upload.cc/i1/2019/04/27/5PJTwu.png)
 <hr>
 ![free-ssr-荷兰-阿姆斯特丹](https://www.png8.com/2019/04/05/5ca723e21223b.png)
 ![free-ss-荷兰-阿姆斯特丹](https://www.png8.com/2019/04/05/5ca72456a1789.png)
