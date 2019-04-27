@@ -5,7 +5,7 @@
 
 3. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
-#### 2019年4月24日修改 英国和日本1 端口号
+#### 2019年4月27日修改 澳大利亚和日本2 端口号
 
 感谢所有捐赠打赏的可爱的人：https://sphard.com/thanks
 
@@ -36,11 +36,11 @@ Twitter: https://twitter.com/darrenliuwei
 ![free-ssr-日本-东京1](https://s2.ax1x.com/2019/04/24/EZEbQK.png)
 ![free-ss-日本-东京1](https://s2.ax1x.com/2019/04/24/EZVeFs.png)
 <hr>
-![free-ssr-日本-东京2](https://www.png8.com/2019/04/19/5cb9b39401bfa.png)
-![free-ss-日本-东京2](https://www.png8.com/2019/04/19/5cb9b7d36ba35.png)
+![free-ssr-日本-东京2](https://s2.ax1x.com/2019/04/27/EuBFYD.png)
+![free-ss-日本-东京2](https://s2.ax1x.com/2019/04/27/EuBVld.png)
 <hr>
-![free-ssr-澳大利亚](https://www.png8.com/2019/04/11/5caf21864a8bf.png)
-![free-ss-澳大利亚](https://www.png8.com/2019/04/11/5caf220edfff2.png)
+![free-ssr-澳大利亚](https://s2.ax1x.com/2019/04/27/Eu0wzd.png)
+![free-ss-澳大利亚](https://s2.ax1x.com/2019/04/27/Eu02FS.png)
 <hr>
 ![free-ssr-英国-伦敦](https://s2.ax1x.com/2019/04/24/EZV7kj.png)
 ![free-ss-英国-伦敦](https://s2.ax1x.com/2019/04/24/EZZtHg.png)
@@ -62,7 +62,7 @@ Twitter: https://twitter.com/darrenliuwei
 <hr>
 ![free-ssr-俄罗斯1](https://www.png8.com/2019/04/17/5cb71f5aa1953.png)
 
-#### 2019年4月23日：恢复原ip、更换端口
+#### 2019年4月25日：增加2个ip。
 <img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4064.PNG" width="100%" height="100%">
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/aT1dO5oekso" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
