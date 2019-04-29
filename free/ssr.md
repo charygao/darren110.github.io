@@ -5,7 +5,7 @@
 
 3. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
-#### 2019年4月29日修改 日本1 端口号
+#### 2019年4月29日修改 美国-洛杉矶 和 日本1 端口号
 
 感谢所有捐赠打赏的可爱的人：https://sphard.com/thanks
 
@@ -51,8 +51,8 @@ Twitter: https://twitter.com/darrenliuwei
 ![free-ssr-香港1](https://www.png8.com/2019/04/14/5cb2de302f13e.png)
 ![free-ss-香港1](https://www.png8.com/2019/04/14/5cb2df0d335a1.png)
 <hr>
-![free-ssr-美国-洛杉矶](https://www.png8.com/2019/04/16/5cb5fa0ebe9ea.png)
-![free-ss-美国-洛杉矶](https://www.png8.com/2019/04/16/5cb5fa958f7d9.png)
+![free-ssr-美国-洛杉矶](https://upload.cc/i1/2019/04/29/JEKyvf.png)
+![free-ss-美国-洛杉矶](https://upload.cc/i1/2019/04/29/sCzjGT.png)
 <hr>
 ![free-ssr-新加坡2](https://www.png8.com/2019/04/21/5cbc207864cee.png)
 ![free-ss-新加坡2](https://www.png8.com/2019/04/21/5cbc2113c6863.png)
