@@ -5,7 +5,7 @@
 
 3. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
-#### 2019年4月27日修改 澳大利亚和日本2 端口号
+#### 2019年4月29日修改 日本1 端口号
 
 感谢所有捐赠打赏的可爱的人：https://sphard.com/thanks
 
@@ -33,8 +33,8 @@ Twitter: https://twitter.com/darrenliuwei
 
 >如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是10台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
 
-![free-ssr-日本-东京1](https://upload.cc/i1/2019/04/27/VAiFh9.png)
-![free-ss-日本-东京1](https://upload.cc/i1/2019/04/27/Jx0hk8.png)
+![free-ssr-日本-东京1](https://upload.cc/i1/2019/04/29/6uwL7P.png)
+![free-ss-日本-东京1](https://upload.cc/i1/2019/04/29/lctW9Z.png)
 <hr>
 ![free-ssr-日本-东京2](https://upload.cc/i1/2019/04/27/DXSTPn.png)
 ![free-ss-日本-东京2](https://upload.cc/i1/2019/04/27/Dirbfe.png)
@@ -62,8 +62,8 @@ Twitter: https://twitter.com/darrenliuwei
 <hr>
 ![free-ssr-俄罗斯1](https://www.png8.com/2019/04/17/5cb71f5aa1953.png)
 
-#### 2019年4月25日：增加2个ip。
-<img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4064.PNG" width="100%" height="100%">
+#### 2019年4月28日：更新端口、增加账号
+<img src="https://raw.githubusercontent.com/Alvin9999/PAC/master/ss/ssr4070.PNG" width="100%" height="100%">
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/aT1dO5oekso" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/uB9jkLncfbw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
