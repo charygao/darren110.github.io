@@ -5,7 +5,7 @@
 
 3. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
-#### 2019年5月3日新增 印度1、新加坡1、新加坡4、新加坡5 和 加拿大1 节点
+#### 2019年5月5日新增 英国2、法国1、新加坡6、新加坡7 和 新加坡8 节点
 
 感谢所有捐赠打赏的可爱的人：https://sphard.com/thanks
 
@@ -31,7 +31,7 @@ Twitter: https://twitter.com/darrenliuwei
 
 >我看网上有些免费的资源会做一些限制，比如回复可见、转发可见、一天一更新、关注公众号回复才可见、限制速度、限制连接数等等，而我都没有做任何限制，并且尽量少更新，而且一般只更新端口号，尽量半个月甚至一个月才更新，我就是希望能尽可能的方便粉丝，真诚的分享，真诚的帮助。
 
->如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是15台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
+>如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是19台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
 
 ![free-ssr-日本-东京1](https://upload.cc/i1/2019/04/29/6uwL7P.png)
 ![free-ss-日本-东京1](https://upload.cc/i1/2019/04/29/lctW9Z.png)
@@ -45,10 +45,14 @@ Twitter: https://twitter.com/darrenliuwei
 ![free-ssr-加拿大1](https://upload.cc/i1/2019/05/03/kFBGYu.png)
 ![free-ss-加拿大1](https://upload.cc/i1/2019/05/03/HdqbjC.png)
 <hr>
-![free-ssr-印度1](https://upload.cc/i1/2019/05/03/zFPfx2.png)
+![free-ssr-法国1](https://upload.cc/i1/2019/05/05/srBAyF.png)
+![free-ss-法国1](https://upload.cc/i1/2019/05/05/7WnKHY.png)
 <hr>
-![free-ssr-英国-伦敦](https://upload.cc/i1/2019/04/27/iqcd7Q.png)
-![free-ss-英国-伦敦](https://upload.cc/i1/2019/04/27/5PJTwu.png)
+![free-ssr-英国-伦敦1](https://upload.cc/i1/2019/04/27/iqcd7Q.png)
+![free-ss-英国-伦敦1](https://upload.cc/i1/2019/04/27/5PJTwu.png)
+<hr>
+![free-ssr-英国-伦敦2](https://upload.cc/i1/2019/05/05/dtYArj.png)
+![free-ss-英国-伦敦2](https://upload.cc/i1/2019/05/05/wzmRY1.png)
 <hr>
 ![free-ssr-荷兰-阿姆斯特丹](https://upload.cc/i1/2019/05/03/PYSEX6.png)
 ![free-ss-荷兰-阿姆斯特丹](https://upload.cc/i1/2019/05/03/luOvzW.png)
@@ -73,6 +77,15 @@ Twitter: https://twitter.com/darrenliuwei
 <hr>
 ![free-ssr-新加坡5](https://upload.cc/i1/2019/05/03/zq4tOm.png)
 ![free-ss-新加坡5](https://upload.cc/i1/2019/05/03/4QXNaM.png)
+<hr>
+![free-ssr-新加坡6](https://upload.cc/i1/2019/05/05/n0Kj1a.png)
+![free-ss-新加坡6](https://upload.cc/i1/2019/05/05/5V1Rwu.png)
+<hr>
+![free-ssr-新加坡7](https://upload.cc/i1/2019/05/05/R6Dvfi.png)
+![free-ss-新加坡7](https://upload.cc/i1/2019/05/05/aD10zV.png)
+<hr>
+![free-ssr-新加坡8](https://upload.cc/i1/2019/05/05/det4pG.png)
+![free-ss-新加坡8](https://upload.cc/i1/2019/05/05/umZewl.png)
 <hr>
 ![free-ssr-俄罗斯1](https://upload.cc/i1/2019/05/03/Trd2Wg.png)
 
