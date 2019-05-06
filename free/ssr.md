@@ -5,7 +5,7 @@
 
 3. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
-#### 2019年5月5日新增 英国2、法国1、新加坡6、新加坡7 和 新加坡8 节点
+#### 2019年5月6日更新 日本1、日本2 和 新加坡3 端口号
 
 感谢所有捐赠打赏的可爱的人：https://sphard.com/thanks
 
@@ -33,11 +33,11 @@ Twitter: https://twitter.com/darrenliuwei
 
 >如果你们身边有人需要免费的梯子，也可以分享给他们，用的人更多了也不用担心，我还会再增加更多的服务器，目前是19台服务器，这些都不用担心，虽然是免费资源，但我会尽量做高质量的免费资源
 
-![free-ssr-日本-东京1](https://upload.cc/i1/2019/04/29/6uwL7P.png)
-![free-ss-日本-东京1](https://upload.cc/i1/2019/04/29/lctW9Z.png)
+![free-ssr-日本-东京1](https://upload.cc/i1/2019/05/06/NtE97x.png)
+![free-ss-日本-东京1](https://upload.cc/i1/2019/05/06/KzrsPa.png)
 <hr>
-![free-ssr-日本-东京2](https://upload.cc/i1/2019/04/27/DXSTPn.png)
-![free-ss-日本-东京2](https://upload.cc/i1/2019/04/27/Dirbfe.png)
+![free-ssr-日本-东京2](https://upload.cc/i1/2019/05/06/PjiclL.png)
+![free-ss-日本-东京2](https://upload.cc/i1/2019/05/06/GoztV7.png)
 <hr>
 ![free-ssr-澳大利亚](https://upload.cc/i1/2019/04/27/Lj8TDJ.png)
 ![free-ss-澳大利亚](https://upload.cc/i1/2019/04/27/XYGdak.png)
@@ -69,8 +69,8 @@ Twitter: https://twitter.com/darrenliuwei
 ![free-ssr-新加坡2](https://upload.cc/i1/2019/05/03/xBKZCl.png)
 ![free-ss-新加坡2](https://upload.cc/i1/2019/05/03/LpAReW.png)
 <hr>
-![free-ssr-新加坡3](https://upload.cc/i1/2019/05/03/4YTIGQ.png)
-![free-ss-新加坡3](https://upload.cc/i1/2019/05/03/HQXUB0.png)
+![free-ssr-新加坡3](https://upload.cc/i1/2019/05/06/8xVsdi.png)
+![free-ss-新加坡3](https://upload.cc/i1/2019/05/06/sljC8B.png)
 <hr>
 ![free-ssr-新加坡4](https://upload.cc/i1/2019/05/03/mX078D.png)
 ![free-ss-新加坡4](https://upload.cc/i1/2019/05/03/9kTqzP.png)
