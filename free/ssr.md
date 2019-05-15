@@ -1,11 +1,11 @@
 # 永久免费ss/ssr翻墙科学上网账号密码资源分享支持Netflix网飞
-1. 免费Shadowsocks帐号:[https://free-ss.site](https://free-ss.site)
+1. 自由浏览VPN: [https://freebrowser.org](https://freebrowser.org)
 
-2. 自由浏览VPN: [https://freebrowser.org](https://freebrowser.org)
+2. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
 
-3. FreeSS - Free Network Assistant and Analysis Information: [https://ss.freess.today](https://ss.freess.today)
+<font color="red">看完 秋水逸冰 的告别 <a href="https://teddysun.com/548.html">https://teddysun.com/548.html</a> 我也有点点害怕了，所以我也不确定这些免费资源会不会随时被迫删除。</font>
 
-#### 2019年5月14日更新 日本2 端口号 和 新加坡2 IP
+#### 2019年5月15日更新 澳大利亚 端口号
 
 感谢所有捐赠打赏的可爱的人：https://sphard.com/thanks
 
@@ -39,8 +39,8 @@ Twitter: https://twitter.com/darrenliuwei
 ![free-ssr-日本-东京2](https://upload.cc/i1/2019/05/14/6arFBq.png)
 ![free-ss-日本-东京2](https://upload.cc/i1/2019/05/14/ZL8nst.png)
 <hr>
-![free-ssr-澳大利亚](https://upload.cc/i1/2019/04/27/Lj8TDJ.png)
-![free-ss-澳大利亚](https://upload.cc/i1/2019/04/27/XYGdak.png)
+![free-ssr-澳大利亚](https://upload.cc/i1/2019/05/15/sRWaHC.png)
+![free-ss-澳大利亚](https://upload.cc/i1/2019/05/15/MrGCiU.png)
 <hr>
 ![free-ssr-加拿大1](https://upload.cc/i1/2019/05/03/kFBGYu.png)
 ![free-ss-加拿大1](https://upload.cc/i1/2019/05/03/HdqbjC.png)
